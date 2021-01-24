@@ -1,9 +1,9 @@
 ---
-package_name: "simple-package"
-package_title: "Simple Package"
-package_desc: "A simple package to say Hello World."
+package_name: "espanso-fractions"
+package_title: "Unicode Fractions"
+package_desc: "A package allowing you to use unicode fractions"
 package_version: "0.1.0"
-package_author: "Federico Terzi"
-package_repo: "https://github.com/federico-terzi/espanso-package-example"
+package_author: "Andrew Pastuszak"
+package_repo: "https://github.com/apastuszak/espanso-package-fractions"
 ---
 A simple package to say "Hello World"
